@@ -36,7 +36,7 @@ def print_result(result):
     for set in result:
         print(set[0], ':', set[1])
 parser = ArgumentParser()
-parser.add_argument("file", help = "the input file")
+parser.add_argument("file", help = "the input csv file")
 parser.add_argument("-t", "--threshold", help = "the threshold (or minimum support) percentage (0 - 100)", dest = "threshold", default = "10")
 args = parser.parse_args()
 file_name = args.file

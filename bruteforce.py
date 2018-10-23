@@ -31,6 +31,9 @@ for i in range(0, len(candidates)):
     for j in range(0, len(rows)):
         if set(candidates[i]).issubset(set(rows[j])):
             count[i] = count[i] + 1
+result = []
 for i in range(0, len(candidates)):
     if count[i] >= threshold:
-        print(candidates[i], ':', count[i])
+        result.append([candidates[i], count[i]])
+sort_result(result)
+print_result(result)

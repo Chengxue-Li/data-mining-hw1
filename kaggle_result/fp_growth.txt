@@ -1,0 +1,291 @@
+['Alfajores', 'Coffee', 'Hot chocolate'] : 19
+['Bread', 'Focaccia'] : 19
+['Bread', 'Medialuna', 'Tea'] : 19
+['Bread', 'NONE', 'Pastry'] : 19
+['Bread', 'Salad'] : 19
+['Brownie', 'Coffee', 'Tea'] : 19
+['Brownie', 'Medialuna'] : 19
+['Cake', 'Hot chocolate', 'Tea'] : 19
+['Chicken Stew', 'Sandwich'] : 19
+['Coffee', 'Coke', 'Sandwich'] : 19
+['Coffee', 'Juice', 'Tea'] : 19
+['Cookies', 'Scone'] : 19
+['Hearty & Seasonal', 'Tea'] : 19
+['Juice', 'Scone'] : 19
+['Juice', 'Truffles'] : 19
+['Medialuna', 'Muffin'] : 19
+['Salad', 'Tea'] : 19
+['Brownie', 'Cake', 'Coffee'] : 20
+['Coffee', 'Cookies', 'NONE'] : 20
+['Coffee', 'Sandwich', 'Truffles'] : 20
+['Jammie Dodgers', 'Juice'] : 20
+['Juice', 'Medialuna'] : 20
+['Medialuna', 'Sandwich'] : 20
+['Muffin', 'NONE'] : 20
+['Muffin', 'Sandwich'] : 20
+['Bread', 'Coffee', 'Soup'] : 21
+['Bread', 'Coffee', 'Tiffin'] : 21
+['Bread', 'Keeping It Local'] : 21
+['Cake', 'Coffee', 'Medialuna'] : 21
+['Cake', 'Coffee', 'Muffin'] : 21
+['Cake', 'Toast'] : 21
+['Coke', 'Juice'] : 21
+['Coke', 'NONE'] : 21
+['Coke', 'Tea'] : 21
+['Cookies', 'Toast'] : 21
+['Hot chocolate', 'Juice'] : 21
+['Tshirt'] : 21
+['Alfajores', 'Cake', 'Coffee'] : 22
+['Bread', 'Medialuna', 'Pastry'] : 22
+['Brownie', 'Sandwich'] : 22
+['Cake', 'Spanish Brunch'] : 22
+['Cake', 'Tiffin'] : 22
+['Farm House', 'Medialuna'] : 22
+['Juice', 'Pastry'] : 22
+['Juice', 'Toast'] : 22
+['Alfajores', 'Cookies'] : 23
+['Bread', 'Coffee', 'Muffin'] : 23
+['Bread', 'Coffee', 'Spanish Brunch'] : 23
+['Bread', 'Pastry', 'Tea'] : 23
+['Bread', 'Smoothies'] : 23
+['Brownie', 'Coffee', 'Hot chocolate'] : 23
+['Brownie', 'NONE'] : 23
+['Brownie', 'Pastry'] : 23
+['Cake', 'Coffee', 'Soup'] : 23
+['Coffee', 'NONE', 'Spanish Brunch'] : 23
+['Muffin', 'Pastry'] : 23
+['Pastry', 'Scone'] : 23
+['Brownie', 'Cookies'] : 24
+['Brownie', 'Juice'] : 24
+['Coffee', 'Hot chocolate', 'Sandwich'] : 24
+['Cookies', 'Medialuna'] : 24
+['Fudge', 'Jam'] : 24
+['Jammie Dodgers', 'Tea'] : 24
+['Alfajores', 'Sandwich'] : 25
+['Bread', 'Frittata'] : 25
+['Bread', 'Hearty & Seasonal'] : 25
+['Cake', 'Truffles'] : 25
+['Coffee', 'Soup', 'Tea'] : 25
+['Farm House', 'Pastry'] : 25
+['NONE', 'Sandwich', 'Tea'] : 25
+['Art Tray', 'Coffee'] : 26
+['Baguette', 'Bread'] : 26
+['Bread', 'Chicken Stew'] : 26
+['Bread', 'NONE', 'Sandwich'] : 26
+['Bread', 'Sandwich', 'Tea'] : 26
+['Cake', 'Coffee', 'Pastry'] : 26
+['Cake', 'Coffee', 'Scone'] : 26
+['Coffee', 'Juice', 'Sandwich'] : 26
+['Coffee', 'Medialuna', 'NONE'] : 26
+['Juice', 'Muffin'] : 26
+['Juice', 'Spanish Brunch'] : 26
+['Mineral water', 'NONE'] : 26
+['Alfajores', 'Brownie'] : 27
+['Baguette', 'Coffee'] : 27
+['Coffee', 'Hot chocolate', 'Medialuna'] : 27
+['Coffee', 'Muffin', 'Tea'] : 27
+['Coffee', 'NONE', 'Pastry'] : 27
+['Coffee', 'NONE', 'Toast'] : 27
+['Cookies', 'NONE'] : 27
+['Cookies', 'Pastry'] : 27
+['Cookies', 'Sandwich'] : 27
+['NONE', 'Truffles'] : 27
+['Bread', 'Coffee', 'Juice'] : 28
+['Eggs'] : 28
+['Granola'] : 28
+['Hot chocolate', 'Scone'] : 28
+['Tea', 'Truffles'] : 28
+['Alfajores', 'Coffee', 'Tea'] : 29
+['Alfajores', 'Juice'] : 29
+['Bakewell', 'Coffee'] : 29
+['Cake', 'Jammie Dodgers'] : 29
+['Chicken Stew', 'Tea'] : 29
+['Coffee', 'Tartine'] : 29
+['Coffee', 'Vegan mincepie'] : 29
+['Hot chocolate', 'Toast'] : 29
+['Alfajores', 'Medialuna'] : 30
+['Alfajores', 'Pastry'] : 30
+['Bread', 'Fudge'] : 30
+['Bread', 'Mineral water'] : 30
+['Coffee', 'Fudge'] : 30
+['Coffee', 'Extra Salami or Feta'] : 31
+['Coffee', 'Tea', 'Toast'] : 31
+['Coffee', 'The Nomad'] : 31
+['Mineral water', 'Sandwich'] : 31
+['Cake', 'Coffee', 'NONE'] : 32
+['Coffee', 'Scone', 'Tea'] : 32
+['Tea', 'Tiffin'] : 32
+['Bread', 'Coffee', 'Scone'] : 33
+['Cake', 'Medialuna'] : 33
+['Coffee', 'Sandwich', 'Soup'] : 33
+['Alfajores', 'Hot chocolate'] : 34
+['Bread', 'Coffee', 'Toast'] : 34
+['Bread', 'NONE', 'Tea'] : 34
+['Coffee', 'Cookies', 'Hot chocolate'] : 34
+['Coffee', 'Hot chocolate', 'NONE'] : 34
+['Hot chocolate', 'Muffin'] : 34
+['NONE', 'Spanish Brunch'] : 34
+['Bread', 'Brownie', 'Coffee'] : 35
+['Coffee', 'Cookies', 'Juice'] : 35
+['Coffee', 'Cookies', 'Tea'] : 35
+['Coffee', 'Hot chocolate', 'Pastry'] : 35
+['Coffee', 'Medialuna', 'Tea'] : 35
+['NONE', 'Toast'] : 36
+['Sandwich', 'Truffles'] : 36
+['Cake', 'Coffee', 'Juice'] : 37
+['Art Tray'] : 38
+['Coffee', 'Jam'] : 38
+['Coffee', 'Smoothies'] : 38
+['Extra Salami or Feta'] : 38
+['Medialuna', 'NONE'] : 38
+['Alfajores', 'Cake'] : 39
+['Brownie', 'Hot chocolate'] : 39
+['Coffee', 'Juice', 'NONE'] : 39
+['Cake', 'Coffee', 'Cookies'] : 40
+['Alfajores', 'Bread', 'Coffee'] : 41
+['Brownie', 'Cake'] : 41
+['Cake', 'Soup'] : 41
+['Coffee', 'Frittata'] : 41
+['Hot chocolate', 'Sandwich'] : 41
+['Hot chocolate', 'Medialuna'] : 43
+['Afternoon with the baker'] : 44
+['Bread', 'Jammie Dodgers'] : 44
+['Cake', 'Coffee', 'Sandwich'] : 44
+['Cake', 'Scone'] : 44
+['Coffee', 'Pastry', 'Tea'] : 44
+['NONE', 'Pastry'] : 44
+['Spanish Brunch', 'Tea'] : 44
+['Bread', 'Spanish Brunch'] : 45
+['Bread', 'Tiffin'] : 45
+['Cake', 'Muffin'] : 45
+['Coffee', 'Medialuna', 'Pastry'] : 45
+['Bread', 'Cake', 'Tea'] : 46
+['Bread', 'Jam'] : 46
+['Coffee', 'Scandinavian'] : 46
+['Tartine'] : 46
+['Bread', 'Farm House'] : 47
+['Bread', 'Truffles'] : 47
+['Bakewell'] : 48
+['Bread', 'Coffee', 'Cookies'] : 48
+['Cake', 'NONE'] : 48
+['Cake', 'Pastry'] : 48
+['Coffee', 'NONE', 'Sandwich'] : 48
+['Coke', 'Sandwich'] : 48
+['Chicken Stew', 'Coffee'] : 49
+['Coffee', 'Keeping It Local'] : 51
+['Coffee', 'Mineral water'] : 51
+['Coffee', 'Sandwich', 'Tea'] : 51
+['Sandwich', 'Soup'] : 52
+['Vegan mincepie'] : 52
+['Hot chocolate', 'Pastry'] : 53
+['Coffee', 'Hearty & Seasonal'] : 54
+['Focaccia'] : 54
+['Juice', 'Sandwich'] : 55
+['Coffee', 'NONE', 'Tea'] : 56
+['Cookies', 'Hot chocolate'] : 56
+['Hot chocolate', 'NONE'] : 56
+['Bread', 'Coffee', 'Hot chocolate'] : 57
+['Cookies', 'Juice'] : 58
+['Juice', 'NONE'] : 58
+['The Nomad'] : 58
+['Tea', 'Toast'] : 60
+['Alfajores', 'Tea'] : 61
+['Bread', 'Scandinavian'] : 61
+['Coffee', 'Coke'] : 61
+['Coffee', 'Salad'] : 61
+['Bread', 'Soup'] : 62
+['Brownie', 'Tea'] : 62
+['Coffee', 'Farm House'] : 62
+['Coffee', 'Jammie Dodgers'] : 62
+['Muffin', 'Tea'] : 62
+['Bread', 'Coffee', 'Medialuna'] : 63
+['Cake', 'Coffee', 'Hot chocolate'] : 63
+['Keeping It Local'] : 63
+['Cake', 'Sandwich'] : 65
+['Cake', 'Juice'] : 67
+['Juice', 'Tea'] : 67
+['Bread', 'Coffee', 'Sandwich'] : 68
+['Bread', 'Coffee', 'Tea'] : 68
+['Cake', 'Cookies'] : 69
+['Bread', 'Juice'] : 70
+['Coffee', 'Truffles'] : 71
+['Bread', 'Toast'] : 72
+['Hot chocolate', 'Tea'] : 74
+['Medialuna', 'Tea'] : 75
+['Bread', 'Muffin'] : 77
+['Smoothies'] : 77
+['Bread', 'Coffee', 'NONE'] : 78
+['Coffee', 'Tiffin'] : 79
+['Scone', 'Tea'] : 79
+['Frittata'] : 81
+['Bread', 'Scone'] : 85
+['Medialuna', 'Pastry'] : 85
+['NONE', 'Sandwich'] : 86
+['Soup', 'Tea'] : 86
+['Cookies', 'Tea'] : 90
+['Pastry', 'Tea'] : 90
+['Cake', 'Coffee', 'Tea'] : 93
+['Bread', 'Cake', 'Coffee'] : 94
+['Alfajores', 'Bread'] : 96
+['Bread', 'Coffee', 'Pastry'] : 99
+['Salad'] : 99
+['Hearty & Seasonal'] : 100
+['Bread', 'Brownie'] : 101
+['Coffee', 'Spanish Brunch'] : 102
+['Cake', 'Hot chocolate'] : 106
+['Chicken Stew'] : 123
+['Jammie Dodgers'] : 125
+['Bread', 'Hot chocolate'] : 126
+['Bread', 'Cookies'] : 135
+['Mineral water'] : 135
+['Sandwich', 'Tea'] : 135
+['Fudge'] : 142
+['Jam'] : 142
+['Tiffin'] : 146
+['Coffee', 'Soup'] : 148
+['Baguette'] : 152
+['Bread', 'Medialuna'] : 158
+['Bread', 'Sandwich'] : 160
+['Coffee', 'Scone'] : 170
+['NONE', 'Tea'] : 171
+['Spanish Brunch'] : 172
+['Coffee', 'Muffin'] : 177
+['Brownie', 'Coffee'] : 184
+['Coke'] : 184
+['Alfajores', 'Coffee'] : 185
+['Truffles'] : 192
+['Bread', 'NONE'] : 194
+['Coffee', 'Juice'] : 194
+['Cake', 'Tea'] : 219
+['Bread', 'Cake'] : 220
+['Coffee', 'Toast'] : 222
+['Bread', 'Tea'] : 262
+['Coffee', 'Cookies'] : 265
+['Bread', 'Pastry'] : 268
+['Coffee', 'Hot chocolate'] : 275
+['Scandinavian'] : 275
+['Toast'] : 318
+['Scone'] : 327
+['Soup'] : 327
+['Coffee', 'Medialuna'] : 329
+['Alfajores'] : 344
+['Coffee', 'Sandwich'] : 360
+['Juice'] : 365
+['Muffin'] : 365
+['Farm House'] : 371
+['Brownie'] : 379
+['Coffee', 'NONE'] : 395
+['Coffee', 'Pastry'] : 440
+['Coffee', 'Tea'] : 462
+['Cake', 'Coffee'] : 512
+['Cookies'] : 515
+['Hot chocolate'] : 552
+['Medialuna'] : 585
+['Sandwich'] : 680
+['NONE'] : 753
+['Pastry'] : 815
+['Bread', 'Coffee'] : 834
+['Cake'] : 985
+['Tea'] : 1352
+['Bread'] : 3099
+['Coffee'] : 4548
